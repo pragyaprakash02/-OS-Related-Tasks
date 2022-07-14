@@ -109,7 +109,7 @@ while(i==0):
     elif(choice==9):
         i+=1
         print("Total No. Of Execution:",no_of_execution)
-        print("Developer Details:\nPUJA KUMARI\nGithub: https://github.com/puja-pearl\nThank You.")
+        print("Developer Details:\nPragya Prakash\nGithub: https://github.com/pragyaprakash02\nThank You.")
     else:
         print("\nWrong Choice.\nTry Again.\n")
         no_of_execution+=1
